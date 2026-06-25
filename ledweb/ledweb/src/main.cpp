@@ -4,8 +4,8 @@
 #include <WiFiClientSecure.h>
 
 // 1. Enter Your Local Network Credentials Here
-#define WIFI_SSID "iQOO Z11x 5G"
-#define WIFI_PASSWORD "unni@2005"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // 2. Direct JSON Endpoint URL (Notice the .json at the end)
 const char* firebase_url = "https://ledintern-default-rtdb.firebaseio.com/led_state.json";
